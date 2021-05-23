@@ -1,3 +1,4 @@
-Hello World!
-
-It changes page
+---
+layout: home
+author_profile: true
+---
